@@ -57,12 +57,12 @@
     "conclusion": "failure"
   },
   {
-    "sha": "HEAD",
+    "sha": "5327a794dd4404f48e478fb157ff40af816b567d",
     "author": "Alejandro Alvarez",
     "commit": {
       "date": "2025-08-21T13:29:17.000Z",
       "message": "feat(index,presenter,saludoNomGenero) agrego funcionalidad genero",
-      "url": "https://github.com/AlejoHuay/botWebUcb/commit/HEAD"
+      "url": "https://github.com/AlejoHuay/botWebUcb/commit/5327a794dd4404f48e478fb157ff40af816b567d"
     },
     "stats": {
       "total": 33,
@@ -71,6 +71,25 @@
       "date": "2025-08-21"
     },
     "coverage": 66.67,
+    "test_count": 1,
+    "failed_tests": 1,
+    "conclusion": "failure"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Alejandro Alvarez",
+    "commit": {
+      "date": "2025-08-21T13:45:59.000Z",
+      "message": "feat(index, presenter, saludoNomGeneroEdad) agrego funcionalidad edad",
+      "url": "https://github.com/AlejoHuay/botWebUcb/commit/HEAD"
+    },
+    "stats": {
+      "total": 42,
+      "additions": 28,
+      "deletions": 14,
+      "date": "2025-08-21"
+    },
+    "coverage": 42.86,
     "test_count": 1,
     "failed_tests": 1,
     "conclusion": "failure"

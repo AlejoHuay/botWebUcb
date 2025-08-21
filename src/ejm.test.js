@@ -1,4 +1,4 @@
-import sumar from "./saludoNomGenero.js";
+import sumar from "./saludoNomGeneroEdad.js";
 
 describe("Sumar", () => {
   it("deberia sumar dos numeros", () => {
