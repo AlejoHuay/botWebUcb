@@ -9,7 +9,16 @@ formSaludoNom.addEventListener("submit", (event) => {
   event.preventDefault();
 
   const nombre = first.value.trim();
+  let fechaActual = new Date();
+  let horaActual = fechaActual.getHours();
   //const secondNumber = Number.parseInt(second.value);
 
-  div.innerHTML = "<p>" + saludar(nombre) + "</p>";
+  if(horaActual<24 && horaActual >19){
+    div.innerHTML = "<p> Buenas noches " + nombre + "</p>";
+  }else if (horaActual<24 && horaActual >12){
+    div.innerHTML = "<p> Buenas tardes " + nombre + "</p>";
+  }else{
+    div.innerHTML = "<p> Buenos dias " + nombre + "</p>";
+  }
+
 });

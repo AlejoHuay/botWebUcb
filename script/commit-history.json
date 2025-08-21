@@ -19,17 +19,36 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "3aa4f6d3e34c2ee1a8154a97bb52fab8d90709a8",
     "author": "Alejandro Alvarez",
     "commit": {
       "date": "2025-08-21T12:58:06.000Z",
       "message": "feat(index,saludoNom,presenter) agrego funcionaliad saludoNom que toma el nombre ingresado",
-      "url": "https://github.com/AlejoHuay/botWebUcb/commit/HEAD"
+      "url": "https://github.com/AlejoHuay/botWebUcb/commit/3aa4f6d3e34c2ee1a8154a97bb52fab8d90709a8"
     },
     "stats": {
       "total": 43,
       "additions": 21,
       "deletions": 22,
+      "date": "2025-08-21"
+    },
+    "coverage": 100,
+    "test_count": 1,
+    "failed_tests": 1,
+    "conclusion": "failure"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Alejandro Alvarez",
+    "commit": {
+      "date": "2025-08-21T13:13:04.000Z",
+      "message": "feat(presenter) agrego funcionalidad para que segun la hora salude apropiadamente",
+      "url": "https://github.com/AlejoHuay/botWebUcb/commit/HEAD"
+    },
+    "stats": {
+      "total": 11,
+      "additions": 10,
+      "deletions": 1,
       "date": "2025-08-21"
     },
     "coverage": 100,
