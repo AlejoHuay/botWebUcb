@@ -38,12 +38,12 @@
     "conclusion": "failure"
   },
   {
-    "sha": "HEAD",
+    "sha": "f683a5dd938d98beedce4bd39cb4c37d0cab44e3",
     "author": "Alejandro Alvarez",
     "commit": {
       "date": "2025-08-21T13:13:04.000Z",
       "message": "feat(presenter) agrego funcionalidad para que segun la hora salude apropiadamente",
-      "url": "https://github.com/AlejoHuay/botWebUcb/commit/HEAD"
+      "url": "https://github.com/AlejoHuay/botWebUcb/commit/f683a5dd938d98beedce4bd39cb4c37d0cab44e3"
     },
     "stats": {
       "total": 11,
@@ -52,6 +52,25 @@
       "date": "2025-08-21"
     },
     "coverage": 100,
+    "test_count": 1,
+    "failed_tests": 1,
+    "conclusion": "failure"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Alejandro Alvarez",
+    "commit": {
+      "date": "2025-08-21T13:29:17.000Z",
+      "message": "feat(index,presenter,saludoNomGenero) agrego funcionalidad genero",
+      "url": "https://github.com/AlejoHuay/botWebUcb/commit/HEAD"
+    },
+    "stats": {
+      "total": 33,
+      "additions": 19,
+      "deletions": 14,
+      "date": "2025-08-21"
+    },
+    "coverage": 66.67,
     "test_count": 1,
     "failed_tests": 1,
     "conclusion": "failure"
