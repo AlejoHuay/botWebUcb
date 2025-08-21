@@ -1,11 +1,11 @@
 [
   {
-    "sha": "HEAD",
+    "sha": "2d5d0d1553116becd65d4e022c86731b66ddac50",
     "author": "Alejandro Alvarez",
     "commit": {
       "date": "2025-08-21T12:41:44.000Z",
       "message": "feat(index) agrego saludo simple como titulo y comento las demas lienas",
-      "url": "https://github.com/AlejoHuay/botWebUcb/commit/HEAD"
+      "url": "https://github.com/AlejoHuay/botWebUcb/commit/2d5d0d1553116becd65d4e022c86731b66ddac50"
     },
     "stats": {
       "total": 8,
@@ -17,5 +17,24 @@
     "test_count": 1,
     "failed_tests": 0,
     "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Alejandro Alvarez",
+    "commit": {
+      "date": "2025-08-21T12:58:06.000Z",
+      "message": "feat(index,saludoNom,presenter) agrego funcionaliad saludoNom que toma el nombre ingresado",
+      "url": "https://github.com/AlejoHuay/botWebUcb/commit/HEAD"
+    },
+    "stats": {
+      "total": 43,
+      "additions": 21,
+      "deletions": 22,
+      "date": "2025-08-21"
+    },
+    "coverage": 100,
+    "test_count": 1,
+    "failed_tests": 1,
+    "conclusion": "failure"
   }
 ]
